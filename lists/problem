@@ -1,0 +1,9 @@
+b = [1,2,3,4]
+mul=1
+for i in b:
+        mul*=i
+print(mul)
+
+# a = ["puneet","jatin","ritesh","Khushi"]
+# # a[0],a[3]=a[3],a[0] a method of slicing
+# print(a)
